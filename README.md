@@ -8,4 +8,6 @@ So we used analytical methods to calculate the approximated end date of partner'
 
 ## Get started
 
-To run this project execute the Dockerfile or app.py.
+To run this project execute the Dockerfile or app.py. 
+
+By doing this you will host the web-application that calculates the approximated end date of partner's cashback promotion given the needed data.

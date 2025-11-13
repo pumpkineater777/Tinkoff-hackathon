@@ -6,6 +6,8 @@ In the Tinkoff app users have discounts on specific brands that partened with Ti
 
 So we used analytical methods to calculate the approximated end date of partner's cashback promotion.
 
+This solution managed to place us on the podium.
+
 ## Get started
 
 To run this project execute the Dockerfile or app.py. 
